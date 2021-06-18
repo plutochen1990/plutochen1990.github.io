@@ -35,24 +35,24 @@ My research interests include Machine Learning in Analog/Mixed-Signal VLSI Desig
 
 == Publications
 === Journal papers
-. *Tinghuan Chen*, Bin Duan, Qi Sun, Meng Zhang, Guoqing Li, Hao Geng, Qianru Zhang, Bei Yu, \"An Efficient Sharing Grouped Convolution via Bayesian Learning\". accepted by IEEE Transactions on Neural Networks and Learning Systems (*TNNLS*).
-. *Tinghuan Chen*, Bingqing Lin, Hao Geng, Shiyan Hu, Bei Yu, \"Leveraging Spatial Correlation for Sensor Drift Calibration in Smart Building\". accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*).
-. Qianru Zhang, Meng Zhang, *Tinghuan Chen*, Zhifei Sun, Yuzhe Ma and Bei Yu. \"Recent advances in convolutional neural network acceleration\". Neurocomputing, vol. 323, pp. 37-51, 2019. 
-. Zhifei Sun, *Tinghuan Chen*, You Tong and Meng Zhang. \"Blind Equalization of Constant Modulus Signals Based on Gaussian Process for Classification\". Wireless Personal Communications. vol. 97, no. 4, pp. 6005-6018, 2017.  
-. Chen Zhu, Huatao Zhao, *Tinghuan Chen* and Tianbo Zhu. \"A low latency and high efficient three-dimension Network-on-Chip based on hierarchical structure\". Modern Physics Letters B. Vol. 31, no. 19-21, 1740061, 2017. 
-. *Tinghuan Chen*, Meng Zhang, Jianhui Wu, Chau Yuen and You Tong. \"Image Encryption and Compression based on Kronecker Compressed Sensing and Elementary Automata Scrambling\". Optics & Laser Technology, vol. 84, pp. 118-133, 2016. 
-. Meng Zhang, *Tinghuan Chen*, Xuchao Shi and Peng Cao. \"Image Arbitrary-Ratio Down- and Up-Sampling Scheme Exploiting DCT Low Frequency Components and Sparsity in High Frequency Components\". IEICE Transactions on Information and Systems. vol. E99-D, no. 2, pp. 475-487, 2016.
+. *Tinghuan Chen*, Bin Duan, Qi Sun, Meng Zhang, Guoqing Li, Hao Geng, Qianru Zhang, Bei Yu, \"An Efficient Sharing Grouped Convolution via Bayesian Learning\", accepted by IEEE Transactions on Neural Networks and Learning Systems (*TNNLS*).
+. *Tinghuan Chen*, Bingqing Lin, Hao Geng, Shiyan Hu, Bei Yu, \"Leveraging Spatial Correlation for Sensor Drift Calibration in Smart Building\", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*), vol. 40, no. 7, pp. 1273-1286, 2021.
+. Qianru Zhang, Meng Zhang, *Tinghuan Chen*, Zhifei Sun, Yuzhe Ma and Bei Yu, \"Recent advances in convolutional neural network acceleration\", Neurocomputing, vol. 323, pp. 37-51, 2019. 
+. Zhifei Sun, *Tinghuan Chen*, You Tong and Meng Zhang, \"Blind Equalization of Constant Modulus Signals Based on Gaussian Process for Classification\", Wireless Personal Communications, vol. 97, no. 4, pp. 6005-6018, 2017.  
+. Chen Zhu, Huatao Zhao, *Tinghuan Chen* and Tianbo Zhu, \"A low latency and high efficient three-dimension Network-on-Chip based on hierarchical structure\", Modern Physics Letters B, Vol. 31, no. 19-21, 1740061, 2017. 
+. *Tinghuan Chen*, Meng Zhang, Jianhui Wu, Chau Yuen and You Tong, \"Image Encryption and Compression based on Kronecker Compressed Sensing and Elementary Automata Scrambling\", Optics & Laser Technology, vol. 84, pp. 118-133, 2016. 
+. Meng Zhang, *Tinghuan Chen*, Xuchao Shi and Peng Cao, \"Image Arbitrary-Ratio Down- and Up-Sampling Scheme Exploiting DCT Low Frequency Components and Sparsity in High Frequency Components\". IEICE Transactions on Information and Systems. vol. E99-D, no. 2, pp. 475-487, 2016.
 
 === Conference papers
 . *Tinghuan Chen*, Qi Sun, Canhui Zhan, Changze Liu, Huatao Yu, Bei Yu, \"Analog IC Aging-induced Degradation Estimation via Heterogeneous Graph Convolutional Networks\", IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Jan. 18–21, 2021.
 . Qi Sun, *Tinghuan Chen*, Siting Liu, Jin Miao, Jianli Chen, Hao Yu, Bei Yu, \"Correlated Multi-objective Multi-fidelity Optimization for HLS Directives Design\", IEEE/ACM Proceedings Design, Automation and Test in Europe (*DATE*), Grenoble, Feb. 1–5, 2021. {{<font color=red size=+0.5><b>}}(Best Paper Award Nomination){{</b></font>}}
 . Qi Sun, *Tinghuan Chen*, Jin Miao, Bei Yu, \"Power-Driven DNN Dataflow Optimization on FPGA\", IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), Westminster, CO, Nov. 4–7, 2019. (Invited Paper)
-. *Tinghuan Chen*, Bingqing Lin, Hao Geng and Bei Yu. \"Sensor Drift Calibration via Spatial Correlation Model in Smart Building\". ACM/IEEE Design Automation Conference (*DAC*), Las Vegas, NV, June 2-6, 2019. #(acceptance rate: 202/1068 = 18.9%)
-. Qianru Zhang, Meng Zhang, *Tinghuan Chen*, Jinan Fan, Zhou Yang and Guoqing Li. \"Electricity Theft Detection Using Generative Models\". IEEE International Conference on Tools with Artificial Intelligence (ICTAI), Volos, Nov. 5-7, 2018.
-. *Tinghuan Chen*, Zhifang Dong. \"A New Method for the 3-D Discrete Hartley Transform\". IEEE International Conference on Instrumentation & Measurement, Computer, Communication and Control, Harbin, Dec. 8-10, 2012.
+. *Tinghuan Chen*, Bingqing Lin, Hao Geng and Bei Yu, \"Sensor Drift Calibration via Spatial Correlation Model in Smart Building\", ACM/IEEE Design Automation Conference (*DAC*), Las Vegas, NV, June 2-6, 2019. #(acceptance rate: 202/1068 = 18.9%)
+. Qianru Zhang, Meng Zhang, *Tinghuan Chen*, Jinan Fan, Zhou Yang and Guoqing Li, \"Electricity Theft Detection Using Generative Models\", IEEE International Conference on Tools with Artificial Intelligence (ICTAI), Volos, Nov. 5-7, 2018.
+. *Tinghuan Chen*, Zhifang Dong, \"A New Method for the 3-D Discrete Hartley Transform\", IEEE International Conference on Instrumentation & Measurement, Computer, Communication and Control, Harbin, Dec. 8-10, 2012.
 
 === Book Chapters
-. *Tinghuan Chen*, Bingqing Lin, Hao Geng, Bei Yu, \"Smart Building Sensor Drift Calibration\", Big Data Analytics for Cyber-Physical Systems. Springer, 2020: 187-202.
+. *Tinghuan Chen*, Bingqing Lin, Hao Geng, Bei Yu, \"Smart Building Sensor Drift Calibration\", Big Data Analytics for Cyber-Physical Systems, Springer, 2020: 187-202.
 
 
 
