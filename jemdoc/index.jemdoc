@@ -45,6 +45,7 @@ My research interests include Machine Learning in Analog/Mixed-Signal VLSI Desig
 
 === Conference papers
 . *Tinghuan Chen*, Qi Sun, Canhui Zhan, Changze Liu, Huatao Yu, Bei Yu, \"Analog IC Aging-induced Degradation Estimation via Heterogeneous Graph Convolutional Networks\", IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Jan. 18–21, 2021.
+. *Tinghuan Chen*, Qi Sun, Bei Yu, \"Machine Learning in Nanometer AMS Design for Reliability\", IEEE International Conference on ASIC (ASICON), Kunming, Oct. 26–29, 2021. (Invited Paper)
 . Qi Sun, *Tinghuan Chen*, Siting Liu, Jin Miao, Jianli Chen, Hao Yu, Bei Yu, \"Correlated Multi-objective Multi-fidelity Optimization for HLS Directives Design\", IEEE/ACM Proceedings Design, Automation and Test in Europe (*DATE*), Grenoble, Feb. 1–5, 2021. {{<font color=red size=+0.5><b>}}(Best Paper Award Nomination){{</b></font>}}
 . Qi Sun, *Tinghuan Chen*, Jin Miao, Bei Yu, \"Power-Driven DNN Dataflow Optimization on FPGA\", IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), Westminster, CO, Nov. 4–7, 2019. (Invited Paper)
 . *Tinghuan Chen*, Bingqing Lin, Hao Geng and Bei Yu, \"Sensor Drift Calibration via Spatial Correlation Model in Smart Building\", ACM/IEEE Design Automation Conference (*DAC*), Las Vegas, NV, June 2-6, 2019. #(acceptance rate: 202/1068 = 18.9%)
