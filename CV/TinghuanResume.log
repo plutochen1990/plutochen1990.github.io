@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.11.1)  1 AUG 2021 12:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.11.1)  1 AUG 2021 13:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -325,22 +325,17 @@ Overfull \vbox (18.06749pt too high) has occurred while \output is active []
 
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 304--305
+Underfull \hbox (badness 10000) in paragraph at lines 306--307
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 337--338
+Underfull \hbox (badness 10000) in paragraph at lines 339--340
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 356--357
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 390--391
+Underfull \hbox (badness 10000) in paragraph at lines 369--370
 
  []
 
@@ -349,26 +344,31 @@ Overfull \vbox (18.06749pt too high) has occurred while \output is active []
 
 
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 457--458
+Underfull \hbox (badness 10000) in paragraph at lines 403--404
 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 501.
+
+Underfull \hbox (badness 10000) in paragraph at lines 470--471
+
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 514.
 
 Overfull \vbox (18.06749pt too high) has occurred while \output is active []
 
 
 [4]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 501.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 514.
  (./TinghuanResume.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 501.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 501.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 514.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 514.
 Package rerunfilecheck Info: File `TinghuanResume.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 6012 strings out of 492649
- 87677 string characters out of 6129622
+ 6013 strings out of 492649
+ 87684 string characters out of 6129622
  196724 words of memory out of 5000000
  9851 multiletter control sequences out of 15000+600000
  8096 words of font info for 29 fonts, out of 8000000 for 9000
@@ -381,10 +381,10 @@ usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><
 /usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></
 usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></u
 sr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on TinghuanResume.pdf (4 pages, 105192 bytes).
+Output written on TinghuanResume.pdf (4 pages, 106502 bytes).
 PDF statistics:
- 83 PDF objects out of 1000 (max. 8388607)
- 69 compressed objects within 1 object stream
- 22 named destinations out of 1000 (max. 500000)
+ 84 PDF objects out of 1000 (max. 8388607)
+ 70 compressed objects within 1 object stream
+ 23 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -57,12 +57,16 @@ My research interests include Machine Learning in Analog/Mixed-Signal VLSI Desig
 . *Tinghuan Chen*, Bingqing Lin, Hao Geng, Bei Yu, \"Smart Building Sensor Drift Calibration\", Big Data Analytics for Cyber-Physical Systems, Springer, 2020: 187-202.
 
 === Newsletters
-#. *Tinghuan Chen*, \"Bayesian Sharing Grouped Convolution\", IEEE TCCPS Newsletter, Volume 05, Issue 01, Mar. 2020.
+. *Tinghuan Chen*, \"Bayesian Sharing Grouped Convolution\", IEEE TCCPS Newsletter, Volume 07, Issue 02, Nov. 2021.
 
 . Qi Sun, *Tinghuan Chen*, Jin Miao, Bei Yu, \"Power-Driven DNN Dataflow Optimization on FPGA\", IEEE TCCPS Newsletter, Volume 05, Issue 01, Mar. 2020.
 
 
 == Experience
+
+=== Assistant Researcher | Hisilicon Technologies Co.
+- *Advisor:* Canhui Zhan
+- Nov.2019-June.2020, Shenzhen
 
 
 === Research Assistant | [http://www.cuhk.edu.hk/english/index.html The Chinese University of Hong Kong]
@@ -111,12 +115,12 @@ Star-Net Scholarship | 2011
 - IET Electronics Letters
 - Neurocomputing
 - IEEE Systems Journal
-- Journal of Systems Architecture
-- IEEE Access
+#- Journal of Systems Architecture
+#- IEEE Access
 - China Communications
 #- Springer Book "Leveraging Big Data Techniques for Cyber-Physical Systems"
 - IET Cyber-Physical Systems: Theory & Applications 
-- KSII Transactions on Internet and Information Systems
+#- KSII Transactions on Internet and Information Systems
 #- Artificial Intelligence In Medicine
 
 
