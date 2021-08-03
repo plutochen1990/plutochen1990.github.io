@@ -36,6 +36,7 @@ My research interests include machine learning in EDA, design space exploration,
 
 == Publications
 === Journal papers
+. *Tinghuan Chen*, Qi Sun, Canhui Zhan, Changze Liu, Huatao Yu, Bei Yu, \"Deep H-GCN: Fast Analog IC Aging-induced Degradation Estimation\", accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*). 
 . *Tinghuan Chen*, Bin Duan, Qi Sun, Meng Zhang, Guoqing Li, Hao Geng, Qianru Zhang, Bei Yu, \"An Efficient Sharing Grouped Convolution via Bayesian Learning\", accepted by IEEE Transactions on Neural Networks and Learning Systems (*TNNLS*). #(IF:10.451)
 . *Tinghuan Chen*, Bingqing Lin, Hao Geng, Shiyan Hu, Bei Yu, \"Leveraging Spatial Correlation for Sensor Drift Calibration in Smart Building\", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*), vol. 40, no. 7, pp. 1273-1286, 2021. #(CCF-A, IF:2.807)
 . Qianru Zhang, Meng Zhang, *Tinghuan Chen*, Zhifei Sun, Yuzhe Ma and Bei Yu, \"Recent advances in convolutional neural network acceleration\", Neurocomputing, vol. 323, pp. 37-51, 2019.
