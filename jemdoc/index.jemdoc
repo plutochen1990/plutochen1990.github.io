@@ -8,28 +8,26 @@
 {}{img_left}{photos/thchen.jpg}{alt text}{131}
 == Tinghuan Chen
 
-Ph.D Student\n 
-[http://www.cse.cuhk.edu.hk/v7/en/index.html Department of Computer Science and Engineering]\n
+Post-doctoral Fellow\n 
+#[http://www.cse.cuhk.edu.hk/v7/en/index.html Department of Computer Science and Engineering]\n
 [http://www.cuhk.edu.hk/english/index.html The Chinese University of Hong Kong  (CUHK)]\n
-Office: Rm 905, Ho Sin Hang Engineering Building \n
+AI Chip Center for Emerging Smart Systems Limited (ACCESS)\n
+#Office: Rm 905, Ho Sin Hang Engineering Building \n
 Phone: \+852 6229 2349 \n
 Email: [thchen@cse.cuhk.edu.hk thchen\[@\]cse.cuhk.edu.hk] \n\n
 [./CV/TinghuanResume.pdf My CV.] \n\n
 ~~~
 
-#{{<div align="right">}}
-#/"If you would go up high, then use your own legs! Do not get yourselves carried aloft; do not seat yourselves on other people's backs and heads!"/ - Friedrich Nietzsche \n\n
-#{{</div>}}
+
 
 
 
 
 == Biography
-I'm a Ph.D student at the [http://www.cse.cuhk.edu.hk/v7/en/index.html Department of Computer Science and Engineering], [http://www.cuhk.edu.hk/english/index.html The Chinese University of Hong Kong (CUHK)], under the supervision of [http://www.cse.cuhk.edu.hk/~byu/index.html Prof. Bei Yu] since Fall 2017. Previously, I received my M.Eng. and B.Eng. in Electronics Engineering from [http://www.seu.edu.cn Southeast University (SEU)] in 2017 and 2014, respectively.
+Currently, I'm a post-doctoral fellow at [http://www.cuhk.edu.hk/english/index.html The Chinese University of Hong Kong (CUHK)] and AI Chip Center for Emerging Smart Systems Limited (ACCESS), under the supervision of [http://www.cse.cuhk.edu.hk/~byu/index.html Prof. Bei Yu]. I earned my Ph.D. in Computer Science and Engineering from [http://www.cuhk.edu.hk/english/index.html The Chinese University of Hong Kong  (CUHK)] in 2021. Previously, I received M.Eng. and B.Eng. in Electronics Engineering from [http://www.seu.edu.cn Southeast University (SEU)] in 2017 and 2014, respectively.
 
 My research interests include machine learning in EDA, design space exploration, analog/mixed-signal VLSI design-for-reliability. 
-#My research interests include Machine Learning in Analog/Mixed-Signal VLSI Design-for-Reliability, Design Space Exploration and Cyber-Physical Systems.
-#My research interests include High Level Synthesis, Cyber-Physical Systems, Transform Code, Compressed Sensing and Machine Learning. 
+
 
 
  
@@ -64,6 +62,10 @@ My research interests include machine learning in EDA, design space exploration,
 
 
 == Experience
+
+=== Post-doctoral Fellow | [http://www.cuhk.edu.hk/english/index.html CUHK]&ACCESS
+- *Advisor:* [http://www.cse.cuhk.edu.hk/~byu/index.html Prof. Bei Yu]
+- Sep.2021-now, N.T., Hong Kong
 
 === Research Intern | Hisilicon Technologies Co.
 - *Advisor:* Canhui Zhan
@@ -122,7 +124,7 @@ Star-Net Scholarship | 2011
 #- Springer Book "Leveraging Big Data Techniques for Cyber-Physical Systems"
 - IET Cyber-Physical Systems: Theory & Applications 
 #- KSII Transactions on Internet and Information Systems
-#- Artificial Intelligence In Medicine
+- Artificial Intelligence in Medicine
 
 
 == Miscellanies
