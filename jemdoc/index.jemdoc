@@ -13,7 +13,7 @@ Post-doctoral Fellow\n
 [http://www.cuhk.edu.hk/english/index.html The Chinese University of Hong Kong  (CUHK)]\n
 AI Chip Center for Emerging Smart Systems Limited (ACCESS)\n
 #Office: Rm 905, Ho Sin Hang Engineering Building \n
-#Phone: \+852 6229 2349 \n
+Phone: \+852 5699 7032 \n
 Email: [thchen@cse.cuhk.edu.hk thchen\[@\]cse.cuhk.edu.hk] \n\n
 [./CV/TinghuanResume.pdf My CV.] \n\n
 ~~~
@@ -24,7 +24,7 @@ Email: [thchen@cse.cuhk.edu.hk thchen\[@\]cse.cuhk.edu.hk] \n\n
 
 
 == Biography
-Currently, I'm a post-doctoral fellow at [http://www.cuhk.edu.hk/english/index.html The Chinese University of Hong Kong (CUHK)] and AI Chip Center for Emerging Smart Systems Limited (ACCESS), under the supervision of [https://www.cse.cuhk.edu.hk/~byu/ Prof. Bei Yu]. I earned my Ph.D. in Computer Science and Engineering from [http://www.cuhk.edu.hk/english/index.html The Chinese University of Hong Kong  (CUHK)] in 2021. Previously, I received M.Eng. and B.Eng. in Electronics Engineering from [http://www.seu.edu.cn Southeast University (SEU)] in 2017 and 2014, respectively.
+Currently, I'm a post-doctoral fellow at [http://www.cuhk.edu.hk/english/index.html The Chinese University of Hong Kong (CUHK)] and AI Chip Center for Emerging Smart Systems Limited (ACCESS), under the supervision of [https://www.cse.cuhk.edu.hk/~byu/ Prof. Bei Yu]. I earned my Ph.D. in Computer Science and Engineering from [http://www.cuhk.edu.hk/english/index.html CUHK] in 2021. Previously, I received M.Eng. and B.Eng. in Electronics Engineering from [http://www.seu.edu.cn Southeast University (SEU)] in 2017 and 2014, respectively.
 
 My research interests include machine learning in EDA, design space exploration, analog/mixed-signal VLSI design-for-reliability. 
 
@@ -36,6 +36,7 @@ My research interests include machine learning in EDA, design space exploration,
 === Journal papers
 . *Tinghuan Chen*, Qi Sun, Canhui Zhan, Changze Liu, Huatao Yu, Bei Yu, \"Deep H-GCN: Fast Analog IC Aging-induced Degradation Estimation\", accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*). 
 . *Tinghuan Chen*, Bin Duan, Qi Sun, Meng Zhang, Guoqing Li, Hao Geng, Qianru Zhang, Bei Yu, \"An Efficient Sharing Grouped Convolution via Bayesian Learning\", accepted by IEEE Transactions on Neural Networks and Learning Systems (*TNNLS*). #(IF:10.451)
+. Qi Sun, *Tinghuan Chen*, Siting Liu, Jin Miao, Jianli Chen, Hao Yu, Bei Yu, \"Correlated Multi-objective Multi-fidelity Optimization for HLS Directives Design\", accepted by ACM Transactions on Design Automation of Electronic Systems (*TODAES*).
 . *Tinghuan Chen*, Bingqing Lin, Hao Geng, Shiyan Hu, Bei Yu, \"Leveraging Spatial Correlation for Sensor Drift Calibration in Smart Building\", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*), vol. 40, no. 7, pp. 1273-1286, 2021. #(CCF-A, IF:2.807)
 . Qianru Zhang, Meng Zhang, *Tinghuan Chen*, Zhifei Sun, Yuzhe Ma, Bei Yu, \"Recent advances in convolutional neural network acceleration\", Neurocomputing, vol. 323, pp. 37-51, 2019.
 . Zhifei Sun, *Tinghuan Chen*, You Tong, Meng Zhang, \"Blind Equalization of Constant Modulus Signals Based on Gaussian Process for Classification\", Wireless Personal Communications, vol. 97, no. 4, pp. 6005-6018, 2017.  
@@ -44,6 +45,7 @@ My research interests include machine learning in EDA, design space exploration,
 . Meng Zhang, *Tinghuan Chen*, Xuchao Shi, Peng Cao, \"Image Arbitrary-Ratio Down- and Up-Sampling Scheme Exploiting DCT Low Frequency Components and Sparsity in High Frequency Components\". IEICE Transactions on Information and Systems. vol. E99-D, no. 2, pp. 475-487, 2016.
 
 === Conference papers
+. Hao Geng, *Tinghuan Chen*, Qi Sun, Bei Yu, \"Techniques for CAD Tool Parameter Auto-tuning in Physical Synthesis: A Survey\", IEEE/ACM Asian and South Pacific Design Automation Conference (ASPDAC), Taipei, Jan. 17–20, 2022. (Invited Paper)
 . *Tinghuan Chen*, Qi Sun, Canhui Zhan, Changze Liu, Huatao Yu, Bei Yu, \"Analog IC Aging-induced Degradation Estimation via Heterogeneous Graph Convolutional Networks\", IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Jan. 18–21, 2021.
 . *Tinghuan Chen*, Qi Sun, Bei Yu, \"Machine Learning in Nanometer AMS Design for Reliability\", IEEE International Conference on ASIC (ASICON), Kunming, Oct. 26–29, 2021. (Invited Paper)
 . Qi Sun, Chen Bai, *Tinghuan Chen*, Hao Geng, Xinyun Zhang, Yang Bai, Bei Yu, \"Fast and Efficient DNN Deployment via Deep Gaussian Transfer Learning\", IEEE International Conference on Computer Vision (*ICCV*), Oct. 11–17, 2021.
