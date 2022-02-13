@@ -11,10 +11,10 @@
 Post-doctoral Fellow\n 
 #[http://www.cse.cuhk.edu.hk/v7/en/index.html Department of Computer Science and Engineering]\n
 [http://www.cuhk.edu.hk/english/index.html The Chinese University of Hong Kong  (CUHK)]\n
-AI Chip Center for Emerging Smart Systems Limited (ACCESS)\n
-#Office: Rm 905, Ho Sin Hang Engineering Building \n
-Phone: \+852 5699 7032 \n
-Email: [thchen@cse.cuhk.edu.hk thchen\[@\]cse.cuhk.edu.hk] \n\n
+#ACCESS, The Hong Kong University of Science and Technology (HKUST)\n
+Office: Rm 115, Ho Sin Hang Engineering Building \n
+#Phone: \+852 5699 7032 \n
+Email: [thchen@cse.cuhk.edu.hk thchen@cse.cuhk.edu.hk] \n\n
 [./CV/TinghuanResume.pdf My CV.] \n\n
 ~~~
 
@@ -24,9 +24,9 @@ Email: [thchen@cse.cuhk.edu.hk thchen\[@\]cse.cuhk.edu.hk] \n\n
 
 
 == Biography
-Currently, I'm a post-doctoral fellow at [http://www.cuhk.edu.hk/english/index.html The Chinese University of Hong Kong (CUHK)] and AI Chip Center for Emerging Smart Systems Limited (ACCESS), under the supervision of [https://www.cse.cuhk.edu.hk/~byu/ Prof. Bei Yu]. I earned my Ph.D. in Computer Science and Engineering from [http://www.cuhk.edu.hk/english/index.html CUHK] in 2021. Previously, I received M.Eng. and B.Eng. in Electronics Engineering from [http://www.seu.edu.cn Southeast University (SEU)] in 2017 and 2014, respectively.
+Currently, I'm a post-doctoral fellow at [http://www.cuhk.edu.hk/english/index.html The Chinese University of Hong Kong (CUHK)], under the supervision of [https://www.cse.cuhk.edu.hk/~byu/ Prof. Bei Yu]. I earned my Ph.D. in Computer Science and Engineering from [http://www.cuhk.edu.hk/english/index.html CUHK] in 2021. Previously, I received M.Eng. and B.Eng. in Electronics Engineering from [http://www.seu.edu.cn Southeast University (SEU)] in 2017 and 2014, respectively.
 
-My research interests include machine learning in EDA, design space exploration, analog/mixed-signal VLSI design-for-reliability. 
+My research interests include machine learning in EDA, physical design, analog/mixed-signal VLSI design-for-reliability. 
 
 
 
@@ -36,6 +36,7 @@ My research interests include machine learning in EDA, design space exploration,
 === Journal papers
 . *Tinghuan Chen*, Qi Sun, Canhui Zhan, Changze Liu, Huatao Yu, Bei Yu, \"Deep H-GCN: Fast Analog IC Aging-induced Degradation Estimation\", accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*). 
 . *Tinghuan Chen*, Bin Duan, Qi Sun, Meng Zhang, Guoqing Li, Hao Geng, Qianru Zhang, Bei Yu, \"An Efficient Sharing Grouped Convolution via Bayesian Learning\", accepted by IEEE Transactions on Neural Networks and Learning Systems (*TNNLS*). #(IF:10.451)
+. Hao Geng, *Tinghuan Chen*, Yuzhe Ma, Binwu Zhu, Bei Yu, \"PTPT: Physical Design Tool Parameter Tuning via Multi-Objective Bayesian Optimization\", accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*). 
 . Qi Sun, *Tinghuan Chen*, Siting Liu, Jin Miao, Jianli Chen, Hao Yu, Bei Yu, \"Correlated Multi-objective Multi-fidelity Optimization for HLS Directives Design\", accepted by ACM Transactions on Design Automation of Electronic Systems (*TODAES*).
 . *Tinghuan Chen*, Bingqing Lin, Hao Geng, Shiyan Hu, Bei Yu, \"Leveraging Spatial Correlation for Sensor Drift Calibration in Smart Building\", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*), vol. 40, no. 7, pp. 1273-1286, 2021. #(CCF-A, IF:2.807)
 . Qianru Zhang, Meng Zhang, *Tinghuan Chen*, Zhifei Sun, Yuzhe Ma, Bei Yu, \"Recent advances in convolutional neural network acceleration\", Neurocomputing, vol. 323, pp. 37-51, 2019.
@@ -65,12 +66,12 @@ My research interests include machine learning in EDA, design space exploration,
 
 == Experience
 
-=== Post-doctoral Fellow | [http://www.cuhk.edu.hk/english/index.html CUHK]&ACCESS
+=== Post-doctoral Fellow | [http://www.cuhk.edu.hk/english/index.html CUHK]
 - *Advisor:* [https://www.cse.cuhk.edu.hk/~byu/ Prof. Bei Yu]
 - Sep.2021-now, N.T., Hong Kong
 
 === Research Intern | Hisilicon Technologies Co.
-- *Instructor:* Canhui Zhan
+#- *Instructor:* Canhui Zhan
 - Nov.2019-June.2020, Shenzhen
 
 
@@ -106,7 +107,7 @@ Star-Net Scholarship | 2011
 
 == Professional Service
 === Program Committee Member
-- International Joint Conference on Artificial Intelligence (IJCAI): 2021 (Demonstrations Track)
+- International Joint Conference on Artificial Intelligence (IJCAI): 2022, 2021
 
 === Conference Review
 - ACM/IEEE Design Automation Conference (DAC): 2020, 2019
@@ -120,13 +121,13 @@ Star-Net Scholarship | 2011
 - IET Electronics Letters
 - Neurocomputing
 - IEEE Systems Journal
-#- Journal of Systems Architecture
+- Journal of Systems Architecture
 #- IEEE Access
-- China Communications
+#- China Communications
 #- Springer Book "Leveraging Big Data Techniques for Cyber-Physical Systems"
 - IET Cyber-Physical Systems: Theory & Applications 
 #- KSII Transactions on Internet and Information Systems
-- Artificial Intelligence in Medicine
+#- Artificial Intelligence in Medicine
 
 
 == Miscellanies
