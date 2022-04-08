@@ -11,8 +11,13 @@
 Post-doctoral Fellow\n 
 #[http://www.cse.cuhk.edu.hk/v7/en/index.html Department of Computer Science and Engineering]\n
 [http://www.cuhk.edu.hk/english/index.html The Chinese University of Hong Kong  (CUHK)]\n
+#[http://www.cuhk.edu.hk/english/index.html The Chinese University of Hong Kong  (CUHK)]\n
 #ACCESS, The Hong Kong University of Science and Technology (HKUST)\n
-Office: Rm 115, Ho Sin Hang Engineering Building \n
+#Visiting Scholar\n
+#[https://www.tum.de/ The Technical University of Munich (TUM)]\n
+Office: Rm 3906, Technical University of Munich, Arcisstr. 21, 80333 Munich, Germany\n
+#Office: Rm 115, Ho Sin Hang Engineering Building \n
+Phone: \+49 177 4781153 \n
 #Phone: \+852 5699 7032 \n
 Email: [thchen@cse.cuhk.edu.hk thchen@cse.cuhk.edu.hk] \n\n
 [./CV/TinghuanResume.pdf My CV.] \n\n
@@ -24,9 +29,11 @@ Email: [thchen@cse.cuhk.edu.hk thchen@cse.cuhk.edu.hk] \n\n
 
 
 == Biography
-Currently, I'm a post-doctoral fellow at [http://www.cuhk.edu.hk/english/index.html The Chinese University of Hong Kong (CUHK)], under the supervision of [https://www.cse.cuhk.edu.hk/~byu/ Prof. Bei Yu]. I earned my Ph.D. in Computer Science and Engineering from [http://www.cuhk.edu.hk/english/index.html CUHK] in 2021. Previously, I received M.Eng. and B.Eng. in Electronics Engineering from [http://www.seu.edu.cn Southeast University (SEU)] in 2017 and 2014, respectively.
+I'm a post-doctoral fellow at [http://www.cuhk.edu.hk/english/index.html The Chinese University of Hong Kong (CUHK)], under the supervision of [https://www.cse.cuhk.edu.hk/~byu/ Prof. Bei Yu]. 
+Currently, I conduct my research at [https://www.tum.de/ The Technical University of Munich (TUM)], Germany.  
+I earned my Ph.D. in Computer Science and Engineering from [http://www.cuhk.edu.hk/english/index.html CUHK] in 2021. Previously, I received M.Eng. and B.Eng. in Electronics Engineering from [http://www.seu.edu.cn Southeast University (SEU)] in 2017 and 2014, respectively.
 
-My research interests include machine learning in EDA, physical design, analog/mixed-signal VLSI design-for-reliability. 
+My research interests include machine learning in EDA and analog/mixed-signal VLSI design-for-reliability. 
 
 
 
@@ -37,7 +44,7 @@ My research interests include machine learning in EDA, physical design, analog/m
 . *Tinghuan Chen*, Qi Sun, Canhui Zhan, Changze Liu, Huatao Yu, Bei Yu, \"Deep H-GCN: Fast Analog IC Aging-induced Degradation Estimation\", accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*). 
 . *Tinghuan Chen*, Bin Duan, Qi Sun, Meng Zhang, Guoqing Li, Hao Geng, Qianru Zhang, Bei Yu, \"An Efficient Sharing Grouped Convolution via Bayesian Learning\", accepted by IEEE Transactions on Neural Networks and Learning Systems (*TNNLS*). #(IF:10.451)
 . Hao Geng, *Tinghuan Chen*, Yuzhe Ma, Binwu Zhu, Bei Yu, \"PTPT: Physical Design Tool Parameter Tuning via Multi-Objective Bayesian Optimization\", accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*). 
-. Qi Sun, *Tinghuan Chen*, Siting Liu, Jin Miao, Jianli Chen, Hao Yu, Bei Yu, \"Correlated Multi-objective Multi-fidelity Optimization for HLS Directives Design\", accepted by ACM Transactions on Design Automation of Electronic Systems (*TODAES*).
+. Qi Sun, *Tinghuan Chen*, Siting Liu, Jin Miao, Jianli Chen, Hao Yu, Bei Yu, \"Correlated Multi-objective Multi-fidelity Optimization for HLS Directives Design\", ACM Transactions on Design Automation of Electronic Systems (*TODAES*), vol. 27, no. 4, pp. 1-27, 2022.
 . *Tinghuan Chen*, Bingqing Lin, Hao Geng, Shiyan Hu, Bei Yu, \"Leveraging Spatial Correlation for Sensor Drift Calibration in Smart Building\", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*), vol. 40, no. 7, pp. 1273-1286, 2021. #(CCF-A, IF:2.807)
 . Qianru Zhang, Meng Zhang, *Tinghuan Chen*, Zhifei Sun, Yuzhe Ma, Bei Yu, \"Recent advances in convolutional neural network acceleration\", Neurocomputing, vol. 323, pp. 37-51, 2019.
 . Zhifei Sun, *Tinghuan Chen*, You Tong, Meng Zhang, \"Blind Equalization of Constant Modulus Signals Based on Gaussian Process for Classification\", Wireless Personal Communications, vol. 97, no. 4, pp. 6005-6018, 2017.  
@@ -46,6 +53,7 @@ My research interests include machine learning in EDA, physical design, analog/m
 . Meng Zhang, *Tinghuan Chen*, Xuchao Shi, Peng Cao, \"Image Arbitrary-Ratio Down- and Up-Sampling Scheme Exploiting DCT Low Frequency Components and Sparsity in High Frequency Components\". IEICE Transactions on Information and Systems. vol. E99-D, no. 2, pp. 475-487, 2016.
 
 === Conference papers
+#. Zheng Zhang, *Tinghuan Chen*, Jiaxin Huang, Meng Zhang, \"A Fast Parameter Tuning Framework via Transfer Learning and Multi-objective Bayesian Optimization\", ACM/IEEE Design Automation Conference (*DAC*), San Francisco, CA, Jul. 10–14, 2022. 
 . Hao Geng, *Tinghuan Chen*, Qi Sun, Bei Yu, \"Techniques for CAD Tool Parameter Auto-tuning in Physical Synthesis: A Survey\", IEEE/ACM Asian and South Pacific Design Automation Conference (ASPDAC), Taipei, Jan. 17–20, 2022. (Invited Paper)
 . *Tinghuan Chen*, Qi Sun, Canhui Zhan, Changze Liu, Huatao Yu, Bei Yu, \"Analog IC Aging-induced Degradation Estimation via Heterogeneous Graph Convolutional Networks\", IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Jan. 18–21, 2021.
 . *Tinghuan Chen*, Qi Sun, Bei Yu, \"Machine Learning in Nanometer AMS Design for Reliability\", IEEE International Conference on ASIC (ASICON), Kunming, Oct. 26–29, 2021. (Invited Paper)
@@ -65,6 +73,9 @@ My research interests include machine learning in EDA, physical design, analog/m
 
 
 == Experience
+=== Visiting Researcher | [https://www.tum.de/ TUM]
+- *Advisor:* [https://www.ce.cit.tum.de/en/eda/persons/ulf-schlichtmann/ Prof. Dr.-Ing. Ulf Schlichtmann]
+- April 2022-now, Munich, Germany
 
 === Post-doctoral Fellow | [http://www.cuhk.edu.hk/english/index.html CUHK]
 - *Advisor:* [https://www.cse.cuhk.edu.hk/~byu/ Prof. Bei Yu]
@@ -72,7 +83,7 @@ My research interests include machine learning in EDA, physical design, analog/m
 
 === Research Intern | Hisilicon Technologies Co.
 #- *Instructor:* Canhui Zhan
-- Nov.2019-June.2020, Shenzhen
+- Nov.2019-June.2020, Shenzhen, China
 
 
 === Research Assistant | [http://www.cuhk.edu.hk/english/index.html The Chinese University of Hong Kong]
@@ -116,6 +127,7 @@ Star-Net Scholarship | 2011
 - ACM Great Lakes Symposium on VLSI (GLSVLSI): 2018
 
 === Selected Journal Review
+- ACM Transactions on Design Automation of Electronic Systems (TODAES)
 - IEEE Design \& Test
 - Integration, the VLSI Journal
 - IET Electronics Letters
