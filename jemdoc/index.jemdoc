@@ -41,11 +41,12 @@ My research interests include machine learning in EDA and analog/mixed-signal VL
 
 == Publications
 === Journal papers
-. *Tinghuan Chen*, Qi Sun, Canhui Zhan, Changze Liu, Huatao Yu, Bei Yu, \"Deep H-GCN: Fast Analog IC Aging-induced Degradation Estimation\", accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*). 
 . *Tinghuan Chen*, Bin Duan, Qi Sun, Meng Zhang, Guoqing Li, Hao Geng, Qianru Zhang, Bei Yu, \"An Efficient Sharing Grouped Convolution via Bayesian Learning\", accepted by IEEE Transactions on Neural Networks and Learning Systems (*TNNLS*). #(IF:10.451)
 . Hao Geng, *Tinghuan Chen*, Yuzhe Ma, Binwu Zhu, Bei Yu, \"PTPT: Physical Design Tool Parameter Tuning via Multi-Objective Bayesian Optimization\", accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*). 
+. *Tinghuan Chen*, Qi Sun, Canhui Zhan, Changze Liu, Huatao Yu, Bei Yu, \"Deep H-GCN: Fast Analog IC Aging-induced Degradation Estimation\", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*), vol. 41, no. 7, pp. 1990-2003, 2022. #(CCF-A, IF:2.807)
 . Qi Sun, *Tinghuan Chen*, Siting Liu, Jin Miao, Jianli Chen, Hao Yu, Bei Yu, \"Correlated Multi-objective Multi-fidelity Optimization for HLS Directives Design\", ACM Transactions on Design Automation of Electronic Systems (*TODAES*), vol. 27, no. 4, pp. 1-27, 2022.
 . *Tinghuan Chen*, Bingqing Lin, Hao Geng, Shiyan Hu, Bei Yu, \"Leveraging Spatial Correlation for Sensor Drift Calibration in Smart Building\", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*), vol. 40, no. 7, pp. 1273-1286, 2021. #(CCF-A, IF:2.807)
+. Yibo Lin, Xiaohan Gao, *Tinghuan Chen*, Bei Yu, \"Machine learning for digital circuit backend design\", Micro/nano Electronics and Intelligent Manufacturing, vol. 2, no. 3, 2021.
 . Qianru Zhang, Meng Zhang, *Tinghuan Chen*, Zhifei Sun, Yuzhe Ma, Bei Yu, \"Recent advances in convolutional neural network acceleration\", Neurocomputing, vol. 323, pp. 37-51, 2019.
 . Zhifei Sun, *Tinghuan Chen*, You Tong, Meng Zhang, \"Blind Equalization of Constant Modulus Signals Based on Gaussian Process for Classification\", Wireless Personal Communications, vol. 97, no. 4, pp. 6005-6018, 2017.  
 . Chen Zhu, Huatao Zhao, *Tinghuan Chen*, Tianbo Zhu, \"A low latency and high efficient three-dimension Network-on-Chip based on hierarchical structure\", Modern Physics Letters B, Vol. 31, no. 19-21, 1740061, 2017. 
@@ -121,12 +122,14 @@ Star-Net Scholarship | 2011
 - International Joint Conference on Artificial Intelligence (IJCAI): 2022, 2021
 
 === Conference Review
+- ACM/IEEE International Conference on Computer-Aided Design (ICCAD): 2022
 - ACM/IEEE Design Automation Conference (DAC): 2020, 2019
 - ACM/IEEE Workshop on Machine Learning for CAD (MLCAD): 2020
 - ACM International Symposium on Physical Design (ISPD): 2019
 - ACM Great Lakes Symposium on VLSI (GLSVLSI): 2018
 
 === Selected Journal Review
+- IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 - ACM Transactions on Design Automation of Electronic Systems (TODAES)
 - IEEE Design \& Test
 - Integration, the VLSI Journal
