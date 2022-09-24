@@ -15,11 +15,11 @@ Post-doctoral Fellow\n
 #ACCESS, The Hong Kong University of Science and Technology (HKUST)\n
 #Visiting Scholar\n
 #[https://www.tum.de/ The Technical University of Munich (TUM)]\n
-Office: Rm 3906, Technical University of Munich, Arcisstr. 21, 80333 Munich, Germany\n
-#Office: Rm 115, Ho Sin Hang Engineering Building \n
-Phone: \+49 177 4781153 \n
-#Phone: \+852 5699 7032 \n
-Email: [thchen@cse.cuhk.edu.hk thchen@cse.cuhk.edu.hk] \n\n
+#Office: Rm 3906, Technical University of Munich, Arcisstr. 21, 80333 Munich, Germany\n
+Office: Rm 115, Ho Sin Hang Engineering Building \n
+#Phone: \+49 177 4781153 \n
+Phone: \+852 5699 7032 \n
+Email: [thchen@cse.cuhk.edu.hk thchen@cse.cuhk.edu.hk], [chentinghuan@cuhk.edu.cn chentinghuan@cuhk.edu.cn] \n\n
 [./CV/TinghuanResume.pdf My CV.] \n\n
 ~~~
 
@@ -30,9 +30,11 @@ Email: [thchen@cse.cuhk.edu.hk thchen@cse.cuhk.edu.hk] \n\n
 
 == Biography
 I'm a post-doctoral fellow at [http://www.cuhk.edu.hk/english/index.html The Chinese University of Hong Kong (CUHK)], under the supervision of [https://www.cse.cuhk.edu.hk/~byu/ Prof. Bei Yu]. 
-Currently, I am a visiting researcher at [https://www.tum.de/ The Technical University of Munich (TUM)], Germany.  
+#Currently, I am a visiting researcher at [https://www.tum.de/ The Technical University of Munich (TUM)], Germany.
+Before that, I was a post-doctoral researcher at [https://www.tum.de/ The Technical University of Munich (TUM)], Germany, from April to Sep. 2022.  
 I earned my Ph.D. in Computer Science and Engineering from [http://www.cuhk.edu.hk/english/index.html CUHK] in 2021. Previously, I received M.Eng. and B.Eng. in Electronics Engineering from [http://www.seu.edu.cn Southeast University (SEU)] in 2017 and 2014, respectively.
 
+I will join the [https://sse.cuhk.edu.cn/en School of Science and Engineering], [https://www.cuhk.edu.cn/en The Chinese University of Hong Kong, Shenzhen], as a tenure-track assistant professor starting from Jan. 2023.
 My research interests include machine learning in EDA and analog/mixed-signal VLSI design-for-reliability. 
 
 
@@ -75,22 +77,24 @@ My research interests include machine learning in EDA and analog/mixed-signal VL
 
 
 == Experience
-=== Visiting Researcher | [https://www.tum.de/ TUM]
-- *Advisor:* [https://www.ce.cit.tum.de/en/eda/persons/ulf-schlichtmann/ Prof. Dr.-Ing. Ulf Schlichtmann]
-- April 2022-now, Munich, Germany
 
 === Post-doctoral Fellow | [http://www.cuhk.edu.hk/english/index.html CUHK]
 - *Advisor:* [https://www.cse.cuhk.edu.hk/~byu/ Prof. Bei Yu]
-- Sep.2021-now, N.T., Hong Kong
+- Sep. 2021-now, N.T., Hong Kong
+
+=== Post-doctoral Researcher | [https://www.tum.de/ TUM]
+- *Host:* [https://www.ce.cit.tum.de/en/eda/persons/ulf-schlichtmann/ Prof. Dr.-Ing. Ulf Schlichtmann]
+- April 2022-Sep. 2022, Munich, Germany
 
 === Research Intern | Hisilicon Technologies Co.
 #- *Instructor:* Canhui Zhan
-- Nov.2019-June.2020, Shenzhen, China
+- Nov. 2019-June 2020, Shenzhen, China
+
 
 
 === Research Assistant | [http://www.cuhk.edu.hk/english/index.html CUHK]
 - *Advisor:* [https://www.cse.cuhk.edu.hk/~byu/ Prof. Bei Yu]
-- Mar.2017-May.2017, N.T., Hong Kong
+- Mar. 2017-May 2017, N.T., Hong Kong
 
 
 == Teaching Assistant
