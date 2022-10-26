@@ -70,7 +70,7 @@ My research interests include machine learning in EDA and analog/mixed-signal VL
 
 == Publications
 === Journal papers
-. *Tinghuan Chen*, Grace Li Zhang, Bei Yu, Bing Li, Raviv Gal, Ulf Schlichtmann, \"Machine Learning in Advanced IC Design: A Methodological Survey\", accepted by IEEE Design & Test. (Invited Paper)
+. *Tinghuan Chen*, Grace Li Zhang, Bei Yu, Bing Li, Ulf Schlichtmann, \"Machine Learning in Advanced IC Design: A Methodological Survey\", accepted by IEEE Design & Test. (Invited Paper)
 . *Tinghuan Chen*, Bin Duan, Qi Sun, Meng Zhang, Guoqing Li, Hao Geng, Qianru Zhang, Bei Yu, \"An Efficient Sharing Grouped Convolution via Bayesian Learning\", accepted by IEEE Transactions on Neural Networks and Learning Systems (*TNNLS*). #(IF:10.451)
 . Hao Geng, *Tinghuan Chen*, Yuzhe Ma, Binwu Zhu, Bei Yu, \"PTPT: Physical Design Tool Parameter Tuning via Multi-Objective Bayesian Optimization\", accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*). 
 . *Tinghuan Chen*, Qi Sun, Canhui Zhan, Changze Liu, Huatao Yu, Bei Yu, \"Deep H-GCN: Fast Analog IC Aging-induced Degradation Estimation\", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*), vol. 41, no. 7, pp. 1990-2003, 2022. #(CCF-A, IF:2.807)
