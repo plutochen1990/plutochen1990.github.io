@@ -61,7 +61,7 @@ My research interests include machine learning in EDA and analog/mixed-signal VL
 - Mar. 2017-May 2017, N.T., Hong Kong
 
 == Teaching
-- Spring 2023, [https://www.cuhk.edu.cn/en/course/8139 EIE2050 Digital Logic and Systems] (Co-teaching with [https://sse.cuhk.edu.cn/en/faculty/simonpun Prof. Simon Pun])
+- Spring 2023, [https://www.cuhk.edu.cn/en/course/8139 EIE2050 Digital Logic and Systems]
 #- Spring 2020, [http://www.cse.cuhk.edu.hk/~mcyang/ceng3430/2020S/ceng3430.html CENG3430 Rapid Prototyping of Digital Systems]
 #- Fall 2019, [http://www.cse.cuhk.edu.hk/~byu/CENG4480/2019Fall/index.html CENG4480 Embedded System Development and Applications]
 #- Spring 2019, [http://www.cse.cuhk.edu.hk/~mcyang/ceng3430/2019S/ceng3430.html CENG3430 Rapid Prototyping of Digital Systems]
@@ -84,8 +84,9 @@ My research interests include machine learning in EDA and analog/mixed-signal VL
 . Meng Zhang, *Tinghuan Chen*, Xuchao Shi, Peng Cao, \"Image Arbitrary-Ratio Down- and Up-Sampling Scheme Exploiting DCT Low Frequency Components and Sparsity in High Frequency Components\". IEICE Transactions on Information and Systems. vol. E99-D, no. 2, pp. 475-487, 2016.
 
 === Conference papers
+. Yuyang Ye, *Tinghuan Chen*, Yifei Gao, Hao Yan, Bei Yu, Longxing Shi, \"Fast and Accurate Wire Timing Estimation Based on Graph Learning\", IEEE/ACM Proceedings Design, Automation and Test in Europe (*DATE*), Antwerp, April 7-19, 2023.
 . Yuyang Ye, *Tinghuan Chen*, Yifei Gao, Hao Yan, Bei Yu, Longxing Shi, \"Graph-Learning-Driven Path-Based Timing Analysis Results Predictor from Graph-Based Timing Analysis\", IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo Odaiba Miraikan, Jan. 16–19, 2023.
-#. Zheng Zhang, *Tinghuan Chen*, Jiaxin Huang, Meng Zhang, \"A Fast Parameter Tuning Framework via Transfer Learning and Multi-objective Bayesian Optimization\", ACM/IEEE Design Automation Conference (*DAC*), San Francisco, CA, Jul. 10–14, 2022. 
+. Zheng Zhang, *Tinghuan Chen*, Jiaxin Huang, Meng Zhang, \"A Fast Parameter Tuning Framework via Transfer Learning and Multi-objective Bayesian Optimization\", ACM/IEEE Design Automation Conference (*DAC*), San Francisco, CA, Jul. 10–14, 2022. 
 . Hao Geng, *Tinghuan Chen*, Qi Sun, Bei Yu, \"Techniques for CAD Tool Parameter Auto-tuning in Physical Synthesis: A Survey\", IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Taipei, Jan. 17–20, 2022. (Invited Paper)
 . *Tinghuan Chen*, Qi Sun, Canhui Zhan, Changze Liu, Huatao Yu, Bei Yu, \"Analog IC Aging-induced Degradation Estimation via Heterogeneous Graph Convolutional Networks\", IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Jan. 18–21, 2021.
 . *Tinghuan Chen*, Qi Sun, Bei Yu, \"Machine Learning in Nanometer AMS Design for Reliability\", IEEE International Conference on ASIC (ASICON), Kunming, Oct. 26–29, 2021. (Invited Paper)
@@ -138,7 +139,7 @@ Star-Net Scholarship | 2011
 - IEEE International Conference on Computer Design (ICCD): 2022
 - ACM/IEEE Design Automation Conference (DAC): 2020, 2019
 - ACM/IEEE Workshop on Machine Learning for CAD (MLCAD): 2020
-- ACM International Symposium on Physical Design (ISPD): 2019
+- ACM International Symposium on Physical Design (ISPD): 2019, 2023
 - ACM Great Lakes Symposium on VLSI (GLSVLSI): 2018
 
 === Selected Journal Review
