@@ -7,7 +7,7 @@
 <link rel="icon" href="./images/cuhksz.png">
 <link rel="stylesheet" href="main.css" type="text/css" />
 <link rel="stylesheet" href="font-awesome/css/font-awesome.min.css">
-<!--- <title></title> --->
+<!--- <title>jemdoc &ndash; add a menu</title> --->
 <title>Tinghuan Chen</title>
 <!-- MathJax -->
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML' async>
@@ -49,28 +49,49 @@ MathJax.Hub.Config({
 </div> <!-- <div id="layout-menu-container"> -->
 <div id="layout-content-container">
 <div id="layout-content">
-<div id="text-img-container"><div id="img-container">
-<img src="photos/thchen.jpg" alt="alt text" width="151px" /></div>
-<div id="text-container"><h2>Tinghuan Chen</h2>
-<p><br />
-Assistant Professor<br /> 
-<a href="https://sse.cuhk.edu.cn/en" target=&ldquo;blank&rdquo;>School of Science and Engineering</a><br />
+<div id="toptitle">
+<h1>jemdoc &ndash; add a menu</h1>
+</div>
+<p>jemdoc provides an easy way to add a &lsquo;menu&rsquo; like the one you see at the left of
+this page. You should create a file called <tt>MENU</tt>, for example, in the current
+directory. This website's <tt>MENU</tt> looks something like this:</p>
+<div class="codeblock">
+<div class="blockcontent"><pre>
+jemdoc
+    home                [index.html]
+    download            [download.html]
+    revision history    [revision.html]
+    contact             [contact.html]
 
-<a href="https://www.cuhk.edu.cn/en" target=&ldquo;blank&rdquo;>The Chinese University of Hong Kong, Shenzhen</a><br />
+user's guide
+    cheat sheet         [cheatsheet.html]
+    using               [using.html]
 
-B.Eng. (<a href="https://www.seu.edu.cn/english/main.htm" target=&ldquo;blank&rdquo;>SEU</a>), M.Eng. (<a href="https://www.seu.edu.cn/english/main.htm" target=&ldquo;blank&rdquo;>SEU</a>), Ph.D. (<a href="https://www.cuhk.edu.hk/english/index.html" target=&ldquo;blank&rdquo;>CUHK</a>)<br /><br />
-<a href="./CV/TinghuanCV.pdf" target=&ldquo;blank&rdquo;>Curriculum Vitae</a> <br /><br /></p>
-</div></div>
-<h2>About</h2>
-<p>I'm an Assistant Professor in the <a href="https://sse.cuhk.edu.cn/en" target=&ldquo;blank&rdquo;>School of Science and Engineering</a>, <a href="https://www.cuhk.edu.cn/en" target=&ldquo;blank&rdquo;>the Chinese University of Hong Kong, Shenzhen</a>. 
-Previously, I was a post-doctoral fellow at the <a href="https://www.cuhk.edu.hk/english/index.html" target=&ldquo;blank&rdquo;>Chinese University of Hong Kong (CUHK)</a> and a post-doctoral researcher at <a href="https://www.ce.cit.tum.de/en/eda/home/" target=&ldquo;blank&rdquo;>the Chair of Electronic Design Automation</a>, <a href="https://www.tum.de/" target=&ldquo;blank&rdquo;>the Technical University of Munich (TUM)</a>. 
-I earned my Ph.D. in <a href="https://www.cse.cuhk.edu.hk/academics/mphil-phd/" target=&ldquo;blank&rdquo;>Computer Science and Engineering</a> from <a href="https://www.cuhk.edu.hk/english/index.html" target=&ldquo;blank&rdquo;>CUHK</a> advised by <a href="https://www.cse.cuhk.edu.hk/~byu/" target=&ldquo;blank&rdquo;>Prof. Bei Yu</a>. 
-
-My research interests include VLSI CAD and deep learning accelerators for edge devices.</p>
-<p>I have openings for highly motivated <a href="https://sse-mphil-phd.cuhk.edu.cn/en/program/CIE" target=&ldquo;blank&rdquo;>M.Phil./Ph.D. students</a> and Research Assistants with background in Electronic and Computer Engineering, Computer Science and Engineering or other related fields. Please contact me with your CV and transcript if you’re interested.</p>
-<h2>Contact</h2>
-<p>E-mail: <a href="mailto:chentinghuan@cuhk.edu.cn" target=&ldquo;blank&rdquo;>chentinghuan@cuhk.edu.cn</a><br />
-Office: Room 405, Dao Cheng Building</p>
+goodies
+    add a menu          [menu.html]
+    other stuff         [stuff.html]
+</pre></div></div>
+<p>To use the menu, start the first line of <i>each</i> source file with a special
+comment like this one:</p>
+<div class="codeblock">
+<div class="blockcontent"><pre>
+# jemdoc: menu{MENU}{index.html}
+</pre></div></div>
+<p>(Replace <tt>index.html</tt> with the name of the relevant html page.) This will add a
+menu from the file called <tt>MENU</tt>, and underline and darken the menu entry
+corresponding to <tt>index.html</tt>.</p>
+<h2>Relative paths</h2>
+<p>Optionally, include a <tt>prefix</tt> which instructs jemdoc where the root of the menu
+is located relative to a particular page.</p>
+<div class="codeblock">
+<div class="blockcontent"><pre>
+# jemdoc: menu{MENU}{pageinsubdir.html}{prefix}
+</pre></div></div>
+<h2>A note on menu widths</h2>
+<p>jemdoc will create menu entries that do not wrap. If you have a particularly
+long title, or menu item, insert manual linebreaks using <tt>\</tt><tt>n</tt> in your
+MENU file. Multi-line menu items will (by default) have their second and
+subsequent lines slightly indented.</p>
 </div> <!-- <div id="layout-content"> -->
 <div id="footer-container">
 <div id="footer">
