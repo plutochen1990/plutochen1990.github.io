@@ -106,7 +106,7 @@ div#layout-menu {
 div#layout-content-container {
 	width: calc(100vw - 280.8px);
 	min-height: calc(100vh - 70px);
-	margin-left: -300.8px;
+	margin-left: -90.8px;
 	background: none;
 	text-align: left;
 	display: inline-block;
@@ -116,7 +116,7 @@ div#layout-content{
 	min-height: calc(100vh - 240px);
 	padding-top: 45px;
 	padding-bottom: 25px;
-	padding-left: 200px;
+	padding-left: 0px;
 	padding-right: 0px;
 	width: 75vw;
 	/*min-width: 200px;*/
@@ -594,7 +594,8 @@ div#layout-menu-container .closebtn:hover {
 		width: 100%;
 	}
 	div#main{
-		padding-left: calc(100vw - 150px);
+		padding-left: 0;
+		/*padding-left: calc(100vw - 150px);*/
 	}
 
 	.openbtn {
